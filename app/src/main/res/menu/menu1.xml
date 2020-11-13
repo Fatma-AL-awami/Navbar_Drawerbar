@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/profile"
+
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="MyProfile"
+        />
+    <item
+        android:id="@+id/setting"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Setting" />
+    <item
+        android:id="@+id/aboutUs"
+        android:icon="@android:drawable/ic_dialog_info"
+
+        android:title="AboutUs" />
+
+</menu>
